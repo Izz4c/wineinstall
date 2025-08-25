@@ -1,6 +1,6 @@
 APP_NAME="Raptor"
 DESKTOP_FILE="$HOME/.local/share/applications/raptor.desktop"
-ICON="utilities-terminal"  # You can change this to any valid icon name or path
+ICON="system-run"  # You can change this to any valid icon name or path
 TERMINAL="true"           # Set to false if you don't want a terminal window
 SCRIPT_PATH="wine $HOME/Downloads/raptor_avalonia/publish/raptor.exe"
 # Create the .desktop file
